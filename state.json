@@ -104,12 +104,12 @@
     "3590",
     "3592"
   ],
-  "telegram_offset": 661773829,
+  "telegram_offset": 661773832,
   "subscribers": {
     "5711733208": {
       "active": true,
       "user_id": "5711733208",
-      "added_at": 1776626649,
+      "added_at": 1776626810,
       "mode": "private"
     }
   },
@@ -140,7 +140,7 @@
     "claim_reports": 0,
     "near_expiry_alerts_sent": 0,
     "digest_messages_sent": 0,
-    "last_boot_ok": true
+    "last_boot_ok": false
   },
   "config": {
     "owner_id": "",
@@ -262,7 +262,7 @@
   "runtime": {
     "bot_username": "infernohell1bot",
     "bot_id": "8082296273",
-    "last_error": "",
+    "last_error": "Request failed for https://api.telegram.org/bot8082296273:AAH-Vg3acGuTxU78GYptkRex_44EtVyKoSo/answerCallbackQuery: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8082296273:AAH-Vg3acGuTxU78GYptkRex_44EtVyKoSo/answerCallbackQuery",
     "webhook_deleted": true,
     "best_today_last_sent_date": ""
   }
