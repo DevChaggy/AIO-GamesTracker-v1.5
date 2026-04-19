@@ -1,4 +1,5 @@
-name: GamerPower Telegram VIP by DevChaggy0x1
+
+name: GamerPower Telegram VIP Final by DevChaggy0x1
 
 on:
   schedule:
@@ -9,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gamerpower-telegram-vip
+  group: gamerpower-telegram-vip-final
   cancel-in-progress: false
 
 jobs:
@@ -26,6 +27,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Run with Node 24-ready actions
+        run: echo "Runner ready"
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -33,12 +37,14 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           OWNER_TELEGRAM_ID: ${{ secrets.OWNER_TELEGRAM_ID }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: python bot.py
 
       - name: Commit state if changed
+        if: always()
         run: |
           git config user.name "DevChaggy0x1"
           git config user.email "devchaggy0x1@users.noreply.github.com"
           git add state.json
-          git diff --cached --quiet || git commit -m "Update VIP bot state"
+          git diff --cached --quiet || git commit -m "Update VIP final bot state"
           git push
