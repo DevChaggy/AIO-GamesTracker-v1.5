@@ -1,0 +1,44 @@
+name: GamerPower Telegram VIP by DevChaggy0x1
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gamerpower-telegram-vip
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          OWNER_TELEGRAM_ID: ${{ secrets.OWNER_TELEGRAM_ID }}
+        run: python bot.py
+
+      - name: Commit state if changed
+        run: |
+          git config user.name "DevChaggy0x1"
+          git config user.email "devchaggy0x1@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Update VIP bot state"
+          git push
