@@ -1,0 +1,38 @@
+{
+  "first_run_completed": false,
+  "seen_ids": [],
+  "telegram_offset": 0,
+  "subscribers": {},
+  "user_profiles": {},
+  "claims": {},
+  "clicks": {},
+  "stats": {
+    "notifications_sent": 0,
+    "new_giveaways_detected": 0,
+    "claim_reports": 0,
+    "near_expiry_alerts_sent": 0,
+    "digest_messages_sent": 0,
+    "last_boot_ok": false
+  },
+  "config": {
+    "owner_id": "",
+    "admin_ids": [],
+    "notify_new": true,
+    "notify_expiring": true,
+    "expiring_window_hours": 12,
+    "send_to_private_subscribers": true,
+    "broadcast_chat_ids": [],
+    "digest_enabled": true,
+    "digest_max_items": 5,
+    "vip_badge": "💎 VIP"
+  },
+  "expiring_alerted_ids": [],
+  "digest_seen_ids": [],
+  "runtime": {
+    "bot_username": "",
+    "bot_id": "",
+    "last_error": "",
+    "webhook_deleted": false,
+    "best_today_last_sent_date": ""
+  }
+}
