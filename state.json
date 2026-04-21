@@ -105,12 +105,12 @@
     "3592",
     "3593"
   ],
-  "telegram_offset": 661773843,
+  "telegram_offset": 661773849,
   "subscribers": {
     "5711733208": {
       "active": true,
       "user_id": "5711733208",
-      "added_at": 1776686240,
+      "added_at": 1776768717,
       "mode": "private"
     }
   },
