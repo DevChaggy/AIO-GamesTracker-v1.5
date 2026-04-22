@@ -108,7 +108,8 @@
     "3594",
     "3595",
     "3596",
-    "3597"
+    "3597",
+    "3598"
   ],
   "telegram_offset": 661773849,
   "subscribers": {
@@ -141,10 +142,10 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 6,
-    "new_giveaways_detected": 6,
+    "notifications_sent": 7,
+    "new_giveaways_detected": 7,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 2,
+    "near_expiry_alerts_sent": 3,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -161,6 +162,7 @@
     "vip_badge": "💎 VIP"
   },
   "expiring_alerted_ids": [
+    "3576",
     "3578",
     "3588"
   ],
@@ -272,7 +274,8 @@
     "3594",
     "3595",
     "3596",
-    "3597"
+    "3597",
+    "3598"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
