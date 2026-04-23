@@ -67,6 +67,7 @@
     "3257",
     "3291",
     "3293",
+    "3304",
     "3312",
     "3321",
     "3373",
@@ -112,14 +113,17 @@
     "3598",
     "3599",
     "3600",
-    "3601"
+    "3601",
+    "3602",
+    "3603",
+    "3604"
   ],
-  "telegram_offset": 661773849,
+  "telegram_offset": 661773851,
   "subscribers": {
     "5711733208": {
       "active": true,
       "user_id": "5711733208",
-      "added_at": 1776768717,
+      "added_at": 1776963273,
       "mode": "private"
     }
   },
@@ -145,10 +149,10 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 10,
-    "new_giveaways_detected": 10,
+    "notifications_sent": 14,
+    "new_giveaways_detected": 14,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 3,
+    "near_expiry_alerts_sent": 5,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -167,7 +171,9 @@
   "expiring_alerted_ids": [
     "3576",
     "3578",
-    "3588"
+    "3588",
+    "3589",
+    "3593"
   ],
   "digest_seen_ids": [
     "5",
@@ -236,6 +242,7 @@
     "3257",
     "3291",
     "3293",
+    "3304",
     "3312",
     "3321",
     "3373",
@@ -281,7 +288,10 @@
     "3598",
     "3599",
     "3600",
-    "3601"
+    "3601",
+    "3602",
+    "3603",
+    "3604"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
