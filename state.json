@@ -168,7 +168,7 @@
     "notifications_sent": 30,
     "new_giveaways_detected": 30,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 21,
+    "near_expiry_alerts_sent": 24,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -187,6 +187,8 @@
   "expiring_alerted_ids": [
     "1506",
     "1864",
+    "3403",
+    "3553",
     "3576",
     "3577",
     "3578",
@@ -195,6 +197,7 @@
     "3589",
     "3593",
     "3594",
+    "3595",
     "3596",
     "3597",
     "3599",
