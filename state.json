@@ -168,7 +168,7 @@
     "notifications_sent": 30,
     "new_giveaways_detected": 30,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 19,
+    "near_expiry_alerts_sent": 21,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -185,6 +185,8 @@
     "vip_badge": "💎 VIP"
   },
   "expiring_alerted_ids": [
+    "1506",
+    "1864",
     "3576",
     "3577",
     "3578",
