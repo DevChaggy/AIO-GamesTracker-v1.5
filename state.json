@@ -133,14 +133,21 @@
     "3616",
     "3617",
     "3618",
-    "3620"
+    "3620",
+    "3621"
   ],
-  "telegram_offset": 661773851,
+  "telegram_offset": 661773854,
   "subscribers": {
     "5711733208": {
       "active": true,
       "user_id": "5711733208",
       "added_at": 1776963273,
+      "mode": "private"
+    },
+    "1134429533": {
+      "active": true,
+      "user_id": "1134429533",
+      "added_at": 1777825984,
       "mode": "private"
     }
   },
@@ -161,13 +168,30 @@
         "mute_expiring": false,
         "digest_only": false
       }
+    },
+    "1134429533": {
+      "first_name": "Mecrop",
+      "last_name": "😈",
+      "username": "mecrop",
+      "display_name": "Mecrop",
+      "claims_count": 0,
+      "clicked_count": 0,
+      "registered_at": 1777825983,
+      "prefs": {
+        "platform_whitelist": [],
+        "type_whitelist": [],
+        "only_active": true,
+        "min_worth_usd": 0.0,
+        "mute_expiring": false,
+        "digest_only": false
+      }
     }
   },
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 31,
-    "new_giveaways_detected": 31,
+    "notifications_sent": 33,
+    "new_giveaways_detected": 32,
     "claim_reports": 0,
     "near_expiry_alerts_sent": 25,
     "digest_messages_sent": 0,
@@ -345,7 +369,8 @@
     "3616",
     "3617",
     "3618",
-    "3620"
+    "3620",
+    "3621"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
