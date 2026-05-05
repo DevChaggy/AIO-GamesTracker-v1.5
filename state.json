@@ -134,7 +134,8 @@
     "3617",
     "3618",
     "3620",
-    "3621"
+    "3621",
+    "3622"
   ],
   "telegram_offset": 661773854,
   "subscribers": {
@@ -190,10 +191,10 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 33,
-    "new_giveaways_detected": 32,
+    "notifications_sent": 35,
+    "new_giveaways_detected": 33,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 25,
+    "near_expiry_alerts_sent": 27,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -234,7 +235,8 @@
     "3604",
     "3605",
     "3607",
-    "3608"
+    "3608",
+    "3618"
   ],
   "digest_seen_ids": [
     "5",
@@ -370,7 +372,8 @@
     "3617",
     "3618",
     "3620",
-    "3621"
+    "3621",
+    "3622"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
