@@ -67,6 +67,7 @@
     "3251",
     "3257",
     "3266",
+    "3272",
     "3291",
     "3293",
     "3304",
@@ -195,10 +196,10 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 43,
-    "new_giveaways_detected": 37,
+    "notifications_sent": 45,
+    "new_giveaways_detected": 38,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 27,
+    "near_expiry_alerts_sent": 37,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -217,6 +218,7 @@
   "expiring_alerted_ids": [
     "1506",
     "1864",
+    "3304",
     "3402",
     "3403",
     "3553",
@@ -240,6 +242,10 @@
     "3605",
     "3607",
     "3608",
+    "3611",
+    "3612",
+    "3613",
+    "3614",
     "3618"
   ],
   "digest_seen_ids": [
@@ -309,6 +315,7 @@
     "3251",
     "3257",
     "3266",
+    "3272",
     "3291",
     "3293",
     "3304",
