@@ -19,6 +19,7 @@
     "555",
     "785",
     "868",
+    "905",
     "988",
     "1106",
     "1130",
@@ -140,7 +141,10 @@
     "3624",
     "3625",
     "3626",
-    "3627"
+    "3627",
+    "3628",
+    "3629",
+    "3630"
   ],
   "telegram_offset": 661773854,
   "subscribers": {
@@ -196,8 +200,8 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 45,
-    "new_giveaways_detected": 38,
+    "notifications_sent": 53,
+    "new_giveaways_detected": 42,
     "claim_reports": 0,
     "near_expiry_alerts_sent": 37,
     "digest_messages_sent": 0,
@@ -267,6 +271,7 @@
     "555",
     "785",
     "868",
+    "905",
     "988",
     "1106",
     "1130",
@@ -388,7 +393,10 @@
     "3624",
     "3625",
     "3626",
-    "3627"
+    "3627",
+    "3628",
+    "3629",
+    "3630"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
