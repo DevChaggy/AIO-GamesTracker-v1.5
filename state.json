@@ -89,6 +89,7 @@
     "3486",
     "3488",
     "3489",
+    "3498",
     "3508",
     "3513",
     "3552",
@@ -203,10 +204,10 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 59,
-    "new_giveaways_detected": 45,
+    "notifications_sent": 61,
+    "new_giveaways_detected": 46,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 39,
+    "near_expiry_alerts_sent": 41,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -254,7 +255,8 @@
     "3613",
     "3614",
     "3618",
-    "3630"
+    "3630",
+    "3631"
   ],
   "digest_seen_ids": [
     "5",
@@ -345,6 +347,7 @@
     "3486",
     "3488",
     "3489",
+    "3498",
     "3508",
     "3513",
     "3552",
