@@ -157,7 +157,8 @@
     "3640",
     "3641",
     "3642",
-    "3643"
+    "3643",
+    "3644"
   ],
   "telegram_offset": 661773854,
   "subscribers": {
@@ -213,8 +214,8 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 79,
-    "new_giveaways_detected": 55,
+    "notifications_sent": 81,
+    "new_giveaways_detected": 56,
     "claim_reports": 0,
     "near_expiry_alerts_sent": 49,
     "digest_messages_sent": 0,
@@ -428,7 +429,8 @@
     "3640",
     "3641",
     "3642",
-    "3643"
+    "3643",
+    "3644"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
