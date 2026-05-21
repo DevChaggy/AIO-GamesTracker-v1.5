@@ -222,7 +222,7 @@
     "notifications_sent": 89,
     "new_giveaways_detected": 61,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 54,
+    "near_expiry_alerts_sent": 57,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -277,6 +277,9 @@
     "3632",
     "3633",
     "3636",
+    "3637",
+    "3638",
+    "3639",
     "3641",
     "3646"
   ],
