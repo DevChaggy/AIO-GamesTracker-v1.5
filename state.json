@@ -170,7 +170,7 @@
     "3651",
     "3652"
   ],
-  "telegram_offset": 661773854,
+  "telegram_offset": 661773856,
   "subscribers": {
     "5711733208": {
       "active": true,
@@ -181,7 +181,7 @@
     "1134429533": {
       "active": true,
       "user_id": "1134429533",
-      "added_at": 1777825984,
+      "added_at": 1779429166,
       "mode": "private"
     }
   },
