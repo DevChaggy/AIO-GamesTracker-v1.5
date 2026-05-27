@@ -231,7 +231,7 @@
     "notifications_sent": 102,
     "new_giveaways_detected": 70,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 67,
+    "near_expiry_alerts_sent": 69,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -294,6 +294,7 @@
     "3646",
     "3647",
     "3648",
+    "3652",
     "3653",
     "3655"
   ],
