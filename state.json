@@ -243,7 +243,7 @@
     "notifications_sent": 126,
     "new_giveaways_detected": 82,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 91,
+    "near_expiry_alerts_sent": 95,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -263,6 +263,7 @@
     "1506",
     "1864",
     "2378",
+    "2855",
     "3304",
     "3312",
     "3394",
@@ -318,6 +319,7 @@
     "3653",
     "3654",
     "3655",
+    "3660",
     "3663",
     "3664"
   ],
