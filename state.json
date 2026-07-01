@@ -278,7 +278,7 @@
     "notifications_sent": 196,
     "new_giveaways_detected": 117,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 161,
+    "near_expiry_alerts_sent": 163,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -298,6 +298,7 @@
     "1506",
     "1864",
     "2378",
+    "2386",
     "2855",
     "3304",
     "3312",
