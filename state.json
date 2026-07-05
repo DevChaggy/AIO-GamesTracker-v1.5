@@ -293,7 +293,7 @@
     "notifications_sent": 226,
     "new_giveaways_detected": 132,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 169,
+    "near_expiry_alerts_sent": 171,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -354,6 +354,7 @@
     "3613",
     "3614",
     "3618",
+    "3628",
     "3630",
     "3631",
     "3632",
