@@ -255,7 +255,7 @@
     "3719",
     "3720"
   ],
-  "telegram_offset": 661773856,
+  "telegram_offset": 661773857,
   "subscribers": {
     "5711733208": {
       "active": true,
@@ -267,6 +267,12 @@
       "active": true,
       "user_id": "1134429533",
       "added_at": 1779429166,
+      "mode": "private"
+    },
+    "6336479480": {
+      "active": true,
+      "user_id": "6336479480",
+      "added_at": 1784722607,
       "mode": "private"
     }
   },
@@ -296,6 +302,23 @@
       "claims_count": 0,
       "clicked_count": 0,
       "registered_at": 1777825983,
+      "prefs": {
+        "platform_whitelist": [],
+        "type_whitelist": [],
+        "only_active": true,
+        "min_worth_usd": 0.0,
+        "mute_expiring": false,
+        "digest_only": false
+      }
+    },
+    "6336479480": {
+      "first_name": "Sergeant",
+      "last_name": "",
+      "username": "fuel_z1",
+      "display_name": "Sergeant",
+      "claims_count": 0,
+      "clicked_count": 0,
+      "registered_at": 1784722607,
       "prefs": {
         "platform_whitelist": [],
         "type_whitelist": [],
