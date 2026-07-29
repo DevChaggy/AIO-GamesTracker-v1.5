@@ -340,7 +340,7 @@
     "notifications_sent": 279,
     "new_giveaways_detected": 156,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 222,
+    "near_expiry_alerts_sent": 225,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -475,6 +475,7 @@
     "3708",
     "3709",
     "3710",
+    "3711",
     "3712",
     "3713",
     "3714",
