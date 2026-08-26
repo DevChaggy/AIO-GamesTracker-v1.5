@@ -377,7 +377,7 @@
     "notifications_sent": 390,
     "new_giveaways_detected": 193,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 306,
+    "near_expiry_alerts_sent": 309,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -544,7 +544,8 @@
     "3746",
     "3747",
     "3748",
-    "3750"
+    "3750",
+    "3756"
   ],
   "digest_seen_ids": [
     "5",
