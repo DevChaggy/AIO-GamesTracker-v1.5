@@ -389,7 +389,7 @@
     "notifications_sent": 426,
     "new_giveaways_detected": 205,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 360,
+    "near_expiry_alerts_sent": 363,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -523,6 +523,7 @@
     "3692",
     "3693",
     "3695",
+    "3696",
     "3697",
     "3698",
     "3699",
