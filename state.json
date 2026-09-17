@@ -405,7 +405,7 @@
     "claim_reports": 0,
     "near_expiry_alerts_sent": 381,
     "digest_messages_sent": 0,
-    "last_boot_ok": true
+    "last_boot_ok": false
   },
   "config": {
     "owner_id": "",
@@ -923,7 +923,7 @@
   "runtime": {
     "bot_username": "infernohell1bot",
     "bot_id": "8082296273",
-    "last_error": "",
+    "last_error": "Request failed for https://www.gamerpower.com/api/giveaways?sort-by=date: HTTPSConnectionPool(host='www.gamerpower.com', port=443): Read timed out. (read timeout=30)",
     "webhook_deleted": true,
     "best_today_last_sent_date": ""
   }
