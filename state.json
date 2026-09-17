@@ -321,7 +321,10 @@
     "3777",
     "3778",
     "3779",
-    "3780"
+    "3780",
+    "3781",
+    "3782",
+    "3783"
   ],
   "telegram_offset": 661773857,
   "subscribers": {
@@ -400,12 +403,12 @@
   "claims": {},
   "clicks": {},
   "stats": {
-    "notifications_sent": 468,
-    "new_giveaways_detected": 219,
+    "notifications_sent": 477,
+    "new_giveaways_detected": 222,
     "claim_reports": 0,
     "near_expiry_alerts_sent": 381,
     "digest_messages_sent": 0,
-    "last_boot_ok": false
+    "last_boot_ok": true
   },
   "config": {
     "owner_id": "",
@@ -918,12 +921,15 @@
     "3777",
     "3778",
     "3779",
-    "3780"
+    "3780",
+    "3781",
+    "3782",
+    "3783"
   ],
   "runtime": {
     "bot_username": "infernohell1bot",
     "bot_id": "8082296273",
-    "last_error": "Request failed for https://www.gamerpower.com/api/giveaways?sort-by=date: HTTPSConnectionPool(host='www.gamerpower.com', port=443): Read timed out. (read timeout=30)",
+    "last_error": "",
     "webhook_deleted": true,
     "best_today_last_sent_date": ""
   }
