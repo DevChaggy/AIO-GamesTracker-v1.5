@@ -451,7 +451,7 @@
     "notifications_sent": 612,
     "new_giveaways_detected": 267,
     "claim_reports": 0,
-    "near_expiry_alerts_sent": 453,
+    "near_expiry_alerts_sent": 456,
     "digest_messages_sent": 0,
     "last_boot_ok": true
   },
@@ -667,7 +667,8 @@
     "3811",
     "3813",
     "3816",
-    "3817"
+    "3817",
+    "3818"
   ],
   "digest_seen_ids": [
     "5",
